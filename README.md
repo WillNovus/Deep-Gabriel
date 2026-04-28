@@ -40,3 +40,10 @@ Deep-Gabriel uses a robust supervisor-worker architecture:
 - DeepSeek
 - Gradio
 - python-docx
+
+## Sample Output
+You can find an example of the generated research paper in the `outputs/` directory. This demonstrates the depth, structuring, and docx formatting capabilities of the multi-agent system.
+
+## Future Contributions
+We welcome contributions to improve Deep-Gabriel! Next steps for the project could include:
+- **Better Math Rendering**: Integrating a robust LaTeX renderer to properly compile math symbols natively within the `.docx` output files.
