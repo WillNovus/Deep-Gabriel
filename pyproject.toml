@@ -1,0 +1,7 @@
+[project]
+name = "deep-gabriel"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = ["gradio", "python-docx", "python-dotenv", "langgraph", "langchain", "langchain-community", "langchain-openai", "langchain-anthropic", "langchain-tavily", "langchain-mcp-adapters", "tavily-python"]
